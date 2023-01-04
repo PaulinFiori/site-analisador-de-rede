@@ -1,0 +1,15 @@
+.banner__Rede{
+    background: url("https://media0.giphy.com/media/l41YvpiA9uMWw5AMU/source.gif");
+    background-size: cover;
+    height: 30vh;
+    position: relative;
+}
+
+.banner__Rede{
+    text-align: center;
+}
+
+.banner__Rede > h1 {
+    padding-top: 5%;
+    color: white;
+}

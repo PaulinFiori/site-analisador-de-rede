@@ -1,0 +1,16 @@
+.search{
+    display:flex;
+    flex-direction: column;
+    height:80%;
+}
+
+.searchBar {
+    flex: 1;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+

@@ -1,0 +1,15 @@
+.banner__analise{
+    background: url("https://super.abril.com.br/wp-content/uploads/2018/07/por-que-a-e2809cfila-indianae2809d-recebe-esse-nome-redes-sociais.jpg");
+    background-size: cover;
+    height: 30vh;
+    position: relative;
+}
+
+.banner__analise{
+    text-align: center;
+}
+
+.banner__analise > h1 {
+    padding-top: 5%;
+    color: white;
+}

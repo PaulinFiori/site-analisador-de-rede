@@ -1,0 +1,18 @@
+.NoMatch__404Page{
+    margin-left: 90px;
+}
+
+.NoMatch__404Page > p > span {
+    color: #0278ae;
+    cursor: pointer;
+}
+
+.NoMatch__404Page > p{
+    margin-left: 30px;
+}
+
+.NoMatch__404Page > h1 {
+    font-size: 80px;
+    font-weight: 700;
+    color: #0278ae;
+}

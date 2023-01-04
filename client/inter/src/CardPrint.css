@@ -1,0 +1,45 @@
+.card__print{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: -5%;
+    border: 0px solid black;
+    width: 40%; 
+    flex: 1 1 25%;
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    box-shadow: 0px 6px 18px -9px rgba(0, 0, 0, 0.75);
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+    background-color: #0278ae;
+    color: white;
+}
+
+.card__print:hover{
+    transform: scale(1.07);
+}
+
+.card__info__print {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    padding-right: 50px;
+    border: 1;
+    text-decoration: none;
+}
+
+.card__info__print > form > h1 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.card__info__print > form > p {
+    font-size: 25px;
+    font-weight: 50px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}

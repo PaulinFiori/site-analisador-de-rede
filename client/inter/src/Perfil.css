@@ -1,0 +1,63 @@
+.perfil {
+    display: table-column;
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.perfil__center {
+    width: 300px;
+    margin-top: 5%;
+    display: flex;
+    background-color:white;
+    color: #0278ae;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid lightgray;
+}
+
+.perfil__center > h1 {
+    color: #0278ae;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.perfil__center > form > h5 {
+    margin-bottom: 5px;
+    color: #0278ae; 
+}
+
+
+.perfil__center > form > input {
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    color: black;
+    width: 98%;
+}
+
+.saveicon {
+    margin-top: 10%;
+    margin-left: 36%;
+    margin-bottom: 5%;
+    color: #0278ae;
+}
+
+#nome2
+{
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    width: 98%;
+}
+
+#Tipo2
+{
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    width: 98%;
+}
